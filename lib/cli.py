@@ -95,3 +95,6 @@ def list_products():
 if __name__ == '__main__':
     cli.add_command(menu)
     cli()
+
+
+    
