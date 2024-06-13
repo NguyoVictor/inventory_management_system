@@ -15,36 +15,3 @@ def get_session():
     engine = get_engine()
     Session = sessionmaker(bind=engine)
     return Session()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

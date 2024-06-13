@@ -39,7 +39,7 @@ Ensure you have the following installed on your machine:
 
 1. **Run the application**:
     ```sh
-    python app.py
+    python lib/clip.py menu
     ```
 2. **Follow the on-screen instructions** to manage products, transactions, and suppliers.
 
@@ -92,7 +92,7 @@ Victor Nguyo
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License
 
 ## Acknowledgements
 
